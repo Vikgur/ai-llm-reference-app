@@ -1,0 +1,8 @@
+*       @platform-security @devsecops-core
+/app/   @llm-core @devsecops-core
+/models/ @model-security @devsecops-core
+/helm/  @platform-security
+/k8s/   @platform-security
+/ci/    @devsecops-core
+/security/ @platform-security @security-architecture
+/docs/  @platform-security

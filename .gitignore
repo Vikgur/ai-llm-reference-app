@@ -1,0 +1,95 @@
+# Python runtime
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ML / LLM artifacts (local, non-immutable)
+models/**/tmp/
+models/**/cache/
+models/**/downloads/
+*.pt
+*.pth
+*.onnx
+*.npz
+*.h5
+
+# Tokenizers / vocab local builds
+app/llm/tokenizer/*.tmp
+app/llm/tokenizer/*.cache
+
+# Logs and runtime output
+*.log
+logs/
+run/
+output/
+
+# Secrets and credentials
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.vault
+vault-password.txt
+secrets/
+credentials/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Docker
+docker/**/.dockerignore
+docker/**/tmp/
+
+# Kubernetes generated artifacts
+kubeconfig
+kubeconfig.*
+*.kubeconfig
+
+# Helm
+helm/**/charts/*.tgz
+helm/**/charts/*/charts/
+helm/**/values.local.yaml
+
+# CI artifacts (generated)
+artifacts/
+ci/output/
+ci/tmp/
+ci/reports/
+sbom/
+attestations/
+
+# Policy / security tooling output
+opa-test-results/
+policy-reports/
+trivy/
+grype/
+syft/
+
+# Observability local state
+observability/**/tmp/
+observability/**/state/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Drafts
+README_draft.md
+docs/draft.md
+docs/*_draft.md
