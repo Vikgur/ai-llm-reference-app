@@ -1,0 +1,3 @@
+steps:
+  - name: unit-tests
+    run: pytest -q

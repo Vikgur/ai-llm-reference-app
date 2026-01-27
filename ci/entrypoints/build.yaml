@@ -1,0 +1,3 @@
+steps:
+  - name: build-image
+    run: docker build -t ai-llm-reference-app:${GIT_SHA} .

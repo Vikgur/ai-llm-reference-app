@@ -1,0 +1,4 @@
+steps:
+  - name: release
+    run: |
+      docker tag ai-llm-reference-app:${GIT_SHA} ai-llm-reference-app:${VERSION}
