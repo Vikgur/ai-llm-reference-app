@@ -43,7 +43,7 @@ CODEOWNERS
 app/README.md
 app/api/{main.py,routes.py,schemas.py,deps.py}
 app/llm/tokenizer/{vocab.json,tokenizer.py,README.md}
-app/llm/embeddings/{embedding.py,weights.bin}
+app/llm/embeddings/{embedding.py,weights.bin,README.md}
 app/llm/transformer/{attention.py,ffw.py,decoder.py,model.py}
 app/llm/decoding/{sampler.py,decoder.py,guards.py}
 app/llm/postprocess/{filters.py,redaction.py,policy.py}
