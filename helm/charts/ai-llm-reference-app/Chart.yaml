@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ai-llm-reference-app
+description: Secure-by-default LLM reference application
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
