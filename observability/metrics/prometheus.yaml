@@ -1,0 +1,12 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  name: ai-llm-reference-app
+spec:
+  selector:
+    matchLabels:
+      app: ai-llm-reference-app
+  endpoints:
+    - port: http
+      path: /metrics
+      interval: 30s
