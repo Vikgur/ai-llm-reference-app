@@ -1,0 +1,6 @@
+runtime:
+  device: cpu
+  threads: 2
+  deterministic: true
+  disable_jit: true
+  preload_models: true

@@ -1,0 +1,11 @@
+limits:
+  input:
+    max_prompt_chars: 8192
+    max_tokens: 2048
+  generation:
+    max_new_tokens: 512
+    timeout_seconds: 5
+  rate_limit:
+    requests_per_minute: 60
+  memory:
+    max_rss_mb: 512

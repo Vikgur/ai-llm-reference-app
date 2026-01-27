@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  format: json
+  fields:
+    service: ai-llm-reference-app
+    component: inference
+  redact_fields:
+    - prompt
+    - output
