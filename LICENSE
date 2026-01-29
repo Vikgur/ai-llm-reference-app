@@ -1,13 +1,112 @@
-Назначение:
-– юридическая рамка использования
+# Оглавление
 
-Тезисы:
-– permissive license (Apache 2.0 или аналог)
-– разрешение на коммерческое использование
-– отсутствие гарантий
-– защита авторов
+- [Apache License](#apache-license)
+- [TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION](#terms-and-conditions-for-use-reproduction-and-distribution)
+  - [1. Definitions](#1-definitions)
+  - [2. Grant of Copyright License](#2-grant-of-copyright-license)
+  - [3. Grant of Patent License](#3-grant-of-patent-license)
+  - [4. Redistribution](#4-redistribution)
+  - [5. Submission of Contributions](#5-submission-of-contributions)
+  - [6. Trademarks](#6-trademarks)
+  - [7. Disclaimer of Warranty](#7-disclaimer-of-warranty)
+  - [8. Limitation of Liability](#8-limitation-of-liability)
+  - [9. Accepting Warranty or Additional Liability](#9-accepting-warranty-or-additional-liability)
+- [END OF TERMS AND CONDITIONS](#end-of-terms-and-conditions)
 
-Связи:
-– упоминается в README.md
-– согласуется с SECURITY.md (responsible disclosure)
-– важен для supply-chain.md (legal trust)
+---
+
+# Apache License
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+---
+
+# TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+## 1. Definitions
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form.
+
+"Work" shall mean the work of authorship made available under the License.
+
+"Derivative Works" shall mean any work based on the Work that represents an editorial revision, annotation, elaboration, or other modification.
+
+"Contribution" shall mean any work of authorship intentionally submitted to the Licensor for inclusion in the Work.
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received.
+
+---
+
+## 2. Grant of Copyright License
+
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+---
+
+## 3. Grant of Patent License
+
+Each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work.
+
+This license applies only to patent claims licensable by such Contributor that are necessarily infringed by their Contribution alone or by combination with the Work.
+
+If You institute patent litigation alleging that the Work constitutes direct or contributory patent infringement, then any patent licenses granted under this License shall terminate.
+
+---
+
+## 4. Redistribution
+
+You may reproduce and distribute copies of the Work or Derivative Works provided that You:
+
+– give recipients a copy of this License  
+– cause any modified files to carry prominent notices stating that You changed the files  
+– retain all copyright, patent, trademark, and attribution notices  
+– include a NOTICE file if provided, without modifying its content  
+
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use.
+
+---
+
+## 5. Submission of Contributions
+
+Unless You explicitly state otherwise, any Contribution submitted for inclusion in the Work shall be licensed under the terms of this License, without additional terms or conditions.
+
+---
+
+## 6. Trademarks
+
+This License does not grant permission to use the Licensor’s trademarks, service marks, or logos.
+
+---
+
+## 7. Disclaimer of Warranty
+
+Unless required by applicable law or agreed to in writing, the Work is provided on an **"AS IS" BASIS**, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including without limitation any warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+You are solely responsible for determining the appropriateness of using or redistributing the Work.
+
+---
+
+## 8. Limitation of Liability
+
+In no event and under no legal theory shall any Contributor be liable to You for damages of any kind, including direct, indirect, special, incidental, or consequential damages arising from the use of the Work, even if advised of the possibility of such damages.
+
+---
+
+## 9. Accepting Warranty or Additional Liability
+
+While redistributing the Work, You may choose to offer support, warranty, or liability obligations, but only on Your own behalf and at Your sole responsibility.
+
+---
+
+# END OF TERMS AND CONDITIONS
